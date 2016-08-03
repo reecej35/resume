@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+.topbar {
+  text-align: center;
+  color: gold;
+}
+
+.education {
+  margin-right: 55%;
+}
+
+.work-experience {
+  float:right;
+  margin-left: 55%;
+  margin-top: -17%;
+}
+
+.skills {
+  margin-left: 40%;
+}
